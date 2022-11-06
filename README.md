@@ -25,3 +25,5 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 - Bonus2: Repo içindeki klasör isimlerini şu şekilde değiştirebilirsiniz.
 https://stackoverflow.com/questions/31861651/how-to-rename-a-directory-folder-on-github-website
+
+- 
