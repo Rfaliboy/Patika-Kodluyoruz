@@ -9,10 +9,9 @@ Dikkat: Her klasörü oluşturduktan sonra içine bir dosya oluşturmayı, ya da
 
 ![](https://miro.medium.com/max/640/1*bAAiw1pNFLqJliGO-2ETSg.gif)
 
-kaynak ve ayrıntılı açıklama: 
-https://sdet-tomaszbuga.medium.com/shortz-how-to-create-subfolders-in-your-github-repository-255d340b298c
+kaynak ve ayrıntılı açıklama [linki](https://sdet-tomaszbuga.medium.com/shortz-how-to-create-subfolders-in-your-github-repository-255d340b298c): 
 
-Her klasörün içine readme dosyası oluşturup verilen projelerin çözümlerini readme dosyasina yazdim.
+Sırada her klasörün içine readme dosyası oluşturup verilen projelerin çözümlerini yazacağımız readme dosyasinı oluşturmak var.
 
 Adımlar:
 
