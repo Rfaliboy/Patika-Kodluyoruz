@@ -16,7 +16,7 @@
 2.Big-O gösterimini yazınız.
 
 ```
-O(n^2)
+O(n^2) 
 ```
 
-a
+ab
