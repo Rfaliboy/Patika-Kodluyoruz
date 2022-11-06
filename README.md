@@ -8,6 +8,7 @@ Bunu yapmak için aşağıdaki yöntemi kullanabilirsiniz.
 Dikkat: Her klasörü oluşturduktan sonra içine bir dosya oluşturmayı, ya da bir şeyler yazmayı unutmayın. Aksi takdirde klasör oluşturulmaz.
 
 (kaynak ve ayrıntılı açıklama [linki](https://sdet-tomaszbuga.medium.com/shortz-how-to-create-subfolders-in-your-github-repository-255d340b298c))
+
 ![](https://miro.medium.com/max/640/1*bAAiw1pNFLqJliGO-2ETSg.gif)
 
 Sırada her klasörün içine readme dosyası oluşturup verilen projelerin çözümlerini yazacağımız readme dosyasinı oluşturmak var.
