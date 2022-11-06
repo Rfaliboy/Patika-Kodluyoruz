@@ -8,6 +8,7 @@ Bunu yapmak için aşağıdaki yöntemi kullanabilirsiniz.
 Dikkat: Her klasörü oluşturduktan sonra içine bir dosya oluşturmayı, ya da bir şeyler yazmayı unutmayın. Aksi takdirde klasör oluşturulmaz.
 
 ![](https://miro.medium.com/max/640/1*bAAiw1pNFLqJliGO-2ETSg.gif)
+
 kaynak ve ayrıntılı açıklama: 
 https://sdet-tomaszbuga.medium.com/shortz-how-to-create-subfolders-in-your-github-repository-255d340b298c
 
