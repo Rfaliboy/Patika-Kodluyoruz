@@ -12,7 +12,7 @@
 8. 9, 7'den büyük olduğu için 7'nin sağına, 8'den büyük olduğu için 8'in sağına
 9. 4, 7'den küçük olduğu için 7'nin soluna, 5'ten küçük olduğu için 5'in soluna, 1'den büyük olduğu için 1'in sağına, 3'ten büyük olduğu için 3'ün sağına
 10. 2, 7'den küçük olduğu için 7'nin soluna, 5'ten küçük olduğu için 5'in soluna, 1'den büyük olduğu için 1'in sağına, 3'ten küçük olduğu için 3'ün soluna
-"""
+```
 
 -    7
 -   5  8
