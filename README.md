@@ -15,14 +15,14 @@ Sırada her klasörün içine readme dosyası oluşturup verilen projelerin çö
 
 Adımlar:
 
-1 1- "add file"
-2 2- Klasör adını yazın.
-3 3- Klasör adını yazdıktan sonra
+1. "add file"
+2. Klasör adını yazın.
+3. Klasör adını yazdıktan sonra
 
  ```/```
  
  işaretini yapın. (shift+7)
-5 4- readme dosyası oluşturmak için aşağıdaki satırı yazın ve "enter" tuşuna basın.
+5.readme dosyası oluşturmak için aşağıdaki satırı yazın ve "enter" tuşuna basın.
 
 ```READ.me```
 
