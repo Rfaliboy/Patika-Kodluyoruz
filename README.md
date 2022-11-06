@@ -1,4 +1,4 @@
-# Patika-Kodluyoruz
+# Patika Kodluyoruz
 ## Marmara Üniversitesi Yazılıma Başlangıç Patikası
 
 Merhaba.
