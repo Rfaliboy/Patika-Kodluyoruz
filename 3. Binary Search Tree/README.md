@@ -14,8 +14,10 @@
 10. 2, 7'den küçük olduğu için 7'nin soluna, 5'ten küçük olduğu için 5'in soluna, 1'den büyük olduğu için 1'in sağına, 3'ten küçük olduğu için 3'ün soluna
 ```
 
--    7
--   5  8
--  1 6  9
-- 0 3
--  2 4
+```
+    7
+   5  8
+  1 6  9
+ 0 3
+  2 4
+  ```
