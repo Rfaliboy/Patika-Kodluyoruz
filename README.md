@@ -23,5 +23,5 @@ Adımlar:
 - Bonus1: Readme dosyanızı daha anlaşılır hale getirmek için aşağıdaki linkte bulunan format operatörlerini kullanabilirsiniz.
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-- Bonus2: Repo içindeki klasör isimlerini şu şekilde değiştirebilirsiniz.
+- Bonus2: Repo içindeki klasör isimlerini şu şekilde değiştirebilirsiniz. 
  https://stackoverflow.com/questions/31861651/how-to-rename-a-directory-folder-on-github-website
