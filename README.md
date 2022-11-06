@@ -17,14 +17,8 @@ Adımlar:
 
 1. "add file"
 2. Klasör adını yazın.
-3. Klasör adını yazdıktan sonra
-
- ```/```
- 
- işaretini yapın. (shift+7)
-5.readme dosyası oluşturmak için aşağıdaki satırı yazın ve "enter" tuşuna basın.
-
-```READ.me```
+3. Klasör adını yazdıktan sonra ```/``` işaretini yapın. (shift+7)
+5. readme dosyası oluşturmak için ```READ.me``` yazın ve "enter" tuşuna basın.
 
 Readme dosyanızı daha anlaşılır hale getirmek için aşağıdaki linkte bulunan format operatörlerini kullanabilirsiniz.
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
