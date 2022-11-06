@@ -11,8 +11,6 @@ Dikkat: Her klasörü oluşturduktan sonra içine bir dosya oluşturmayı, ya da
 
 ![](https://miro.medium.com/max/640/1*bAAiw1pNFLqJliGO-2ETSg.gif)
 
-Sırada her klasörün içine readme dosyası oluşturup verilen projelerin çözümlerini yazacağımız readme dosyasinı oluşturmak var.
-
 Adımlar:
 
 1. "add file"
