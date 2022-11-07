@@ -1,6 +1,10 @@
 # Patika Kodluyoruz
 ## Marmara Üniversitesi Yazılıma Başlangıç Patikası
 
+Patika'da aldığım bazı notları notion üzerinden inceleyebilirsiniz. [notion linki](https://savory-confidence-b5a.notion.site/c544d4964c534ec9bd2d443724f11d46?v=0508c877e7964501b2d2d994a933423a)
+
+---
+
 Merhaba.
 GitHub'a proje yüklerken her proje için farklı repository oluşturmak yerine tek repository içine farklı klasörler oluşturmak istedim.
 Bunu yapmak için aşağıdaki yöntemi kullanabilirsiniz.
